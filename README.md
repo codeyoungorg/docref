@@ -1,2 +1,2 @@
 ### TOC
-[Development & Release Management Process](git_release_process.md)
+[Development & Release Management Process](gitReleaseProcess.md)
